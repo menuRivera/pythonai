@@ -18,7 +18,7 @@ and you are ready to go.
 python pythonai.py <technology to use> <name of the project>
 ```
 
-for instance
+for example:
 
 ```sh
 python pythonai.py expressjs sample-server
@@ -29,7 +29,3 @@ The idea is rather simple, OpenAI completions api can only receive text as instr
 
 # Want to contribute?
 Feel free to fork the project and open pull requests when you feel like your feature/fix is ready.
-
-# Disclaimer
-I'm not a python dev, if you notice some kind bad practices or something like that, please feel free to let me know.
-
