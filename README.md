@@ -1,6 +1,6 @@
 # PythonAI
 This project is an implementation of the [OpenAI API](https://openai.com/api/).
-It's purpose is to create dev-ready projects with virtually any technology you can imagine. It can be modified in order to create any kind of file that can be created using bash scripts.
+It's purpose is to create dev-ready projects with virtually any technology you can think of. It can be modified in order to create any kind of file that can be created using bash scripts.
 
 # How to use
 In order to be able to use the script, you must, first of all, get your own OpenAI api key and place it in an env variable called `OPENAI_API_KEY`.
